@@ -1,4 +1,4 @@
-FROM af139784/rocker_verse_dev:4.1.1
+FROM af139784/rocker_verse_dev:4.1.2
 
 RUN  /rocker_scripts/install_shiny_server.sh
 
