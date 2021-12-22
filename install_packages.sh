@@ -11,7 +11,7 @@ install2.r  --error -r $CRAN --skipinstalled \
     shinyjs \
     shinyWidgets \
     shinycssloaders \
-    shinyalert \ 
+    shinyalert \
     shinymanager \
     polished \
     bs4Dash
