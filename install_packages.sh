@@ -13,12 +13,12 @@ install2.r  --error -r $CRAN --skipinstalled \
     shinycssloaders \
     shinyalert \
     shinymanager \
-    polished \
+    shinyFeedback \
     bs4Dash
 
 # Install from GitHub
-installGithub.r \
-    paulc91/shinyauthr
+#installGithub.r \
+#    paulc91/shinyauthr
 
 rm -rf /tmp/downloaded_packages
 rm -rf /var/lib/apt/lists/*
