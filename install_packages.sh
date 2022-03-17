@@ -13,6 +13,7 @@ install2.r  --error -r $CRAN --skipinstalled \
     shinycssloaders \
     shinyalert \
     shinymanager \
+    shinyFeedback \
     bs4Dash
 
 # Install from GitHub
